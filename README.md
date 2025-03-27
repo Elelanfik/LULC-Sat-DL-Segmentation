@@ -35,7 +35,7 @@ Several advanced deep learning architectures were evaluated, including:
 - **DeepLabV3+**
 - **AE-DeepLabV3+**
 
-These models were tested with various backbones, such as ResNet101, ResNet152, Xception, EfficientNetB5, and MobileNetV2, to identify the best-performing combination.
+These models were tested with various backbones, such as ResNet101, ResNet152, Xception, and MobileNetV2, to identify the best-performing combination.
 
 ## Results
 The study demonstrated that certain model architectures and backbone combinations achieved superior performance in land use and land cover classification. Among the evaluated models, **AE-DeepLabV3+** with the **Xception backbone** emerged as the top-performing model, showcasing its effectiveness in this domain. The results were compared with recent studies to provide context and highlight the contributions of this research.
