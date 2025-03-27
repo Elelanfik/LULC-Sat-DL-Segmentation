@@ -54,7 +54,7 @@ LULC-DeepSeg/
 ## Usage
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/LULC-DeepSeg.git
+   git clone https://github.com/Elelanfik/LULC-DeepSeg.git
    cd LULC-DeepSeg
    ```
 
