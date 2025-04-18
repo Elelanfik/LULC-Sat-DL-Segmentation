@@ -45,8 +45,7 @@ The study demonstrated that certain model architectures and backbone combination
 LULC-DeepSeg/
 ├── data/                   # Dataset and masks
 ├── models/                # Model architectures and weights
-├── scripts/               # Preprocessing and training scripts
-├── results/               # Evaluation results and visualizations
+├── results and  Evaluation/               # Evaluation results and visualizations
 ├── README.md              # This file
 └── requirements.txt       # Dependencies
 ```
