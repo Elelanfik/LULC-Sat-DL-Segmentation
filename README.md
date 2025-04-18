@@ -87,13 +87,7 @@ This repository is intended to serve as a resource for researchers and practitio
 ## Citation
 If you find this repository useful for your research, please consider citing our work:
 ```bibtex
-@article{yourcitationkey,
-  title={Enhancing Land Use and Land Cover Classification with Deep Learning-Based Satellite Imagery Segmentation},
-  author={Your Name and Co-authors},
-  journal={Journal Name},
-  year={2025},
-  publisher={Publisher}
-}
+
 ```
 
 ## License
