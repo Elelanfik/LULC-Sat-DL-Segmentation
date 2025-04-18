@@ -54,8 +54,8 @@ LULC-DeepSeg/
 ## Usage
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Elelanfik/LULC-DeepSeg.git
-   cd LULC-DeepSeg
+   git clone https://github.com/Elelanfik/LULC-Sat-DL-Segmentation
+   cd LULC-Sat-DL-Segmentation
    ```
 
 2. **Install Dependencies**:
